@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center">
-<a href="https://www.instagram.com/its_mohasin_official/" alt="Instgram Follow">
+<a href="https://www.instagram.com/yuvraj__883/" alt="Instgram Follow">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://mohasin-portfolio.netlify.app/" alt="Portfolio">
+  <a href="https://yuvraj883.github.io/myPortfolio/index.html/" alt="Portfolio">
   <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/></a>
-   <a href="https://www.linkedin.com/in/mohasin-haque-759786200/" alt="Linkedin Follow">
+   <a href="https://www.linkedin.com/in/yuvraj-singh-2942781a3/" alt="Linkedin Follow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </a><br><br>
  
@@ -20,7 +20,6 @@
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🌱 Currently learning React and Backend
 - 🤝 2021 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I come here for the green squares
 - 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,9 +31,9 @@
 
 
 📫 How to reach me:
-<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/its_mohasin_official/)</code>
-<code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohasin-haque-759786200/)</code> 
-<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mohasin_haque)</code> 
+<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/yuvraj__883/)</code>
+<code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuvraj-singh-2942781a3/)</code> 
+<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Yuvraj__883)</code> 
 <code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=-r3QA-s7Dw0)</code> 
 <code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ajad.ali.3766/)</code>
 <code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://mohasinhaque23121.medium.com/)</code>
